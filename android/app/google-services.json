@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492757385673",
+    "project_id": "suji-login",
+    "storage_bucket": "suji-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492757385673:android:cc922d368158e69284a818",
+        "android_client_info": {
+          "package_name": "com.example.suji_m"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSd3D4spWcNLLhGxzVLmyZt6Nj_kAwNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
